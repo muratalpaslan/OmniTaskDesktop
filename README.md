@@ -1,8 +1,11 @@
-İndirme Linkleri Mac için : https://drive.google.com/file/d/1cD3W-5Fg7UbuY6GHZcjv5tF1m-4e4Avr/view?usp=sharing
+İndirme Linkleri 
 
-Windows için : https://drive.google.com/file/d/1kkKNi5z0xOeuhfSOgsJTZJT3TI5UAqoO/view?usp=sharing
+Mac için : https://drive.google.com/file/d/1QklyoHFwjA5Dp7aSgziUJ3Y-AjUs7YNe/view?usp=sharing
 
-Linux için : https://drive.google.com/file/d/1wLDuSYRDi1bPGjc0UfKr46zQq4B4bmpo/view?usp=sharing
+Windows için : https://drive.google.com/file/d/1IEuONlfgP21d5UuoYCh3ptgkb5t8V238/view?usp=sharing
+
+Linux için : https://drive.google.com/file/d/1GKDCKuP8Z5KJDtoD1AHSErG6b9uwGbsy/view?usp=sharing
+
 
 🔍 Genel Bakış OmniTask, günlük görevlerinizi ve notlarınızı yönetmenize yardımcı olan modern, basit ve kullanımı kolay bir masaüstü uygulamasıdır. Electron.js ve React kullanılarak geliştirilmiş bu uygulama, tüm verilerinizi yerel olarak saklar ve çevrimiçi bağlantı gerektirmez. 
 
